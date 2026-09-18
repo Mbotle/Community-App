@@ -1,0 +1,12 @@
+bash code
+# unzip the file you downloaded
+cd lost-found-app
+npm install
+npm run dev # test it locally at http://localhost:5173
+# then push GitHub 
+git init
+git add
+git commit -m "initial: Lost & found community app"
+git branch -M main
+git remote add origin http://github.com/YOUR_USERNAME/lost-and-found-community.git
+git push  -u origin main 
