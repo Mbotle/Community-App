@@ -1,0 +1,5 @@
+What's in the code: 
+src/App..jsx- Full app logic(feed,report modals,details,filters,reunited flow)
+src/main.jsx + index . html-Vite entry
+tailwind.config.js - styling 
+README.md - docs
